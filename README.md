@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7NJzrFZl)
 # CSS Bonus
 
 # Descripción
@@ -36,4 +37,6 @@ Colores:
 | Reto 2  | 1.25     |
 | Reto 3      | 1.25     |
 | Despliegue      | 1.25       |
+
+Juan José Gómez Saavedra https://dsaw-2025-i.github.io/css-bonus-gomsago/
 
