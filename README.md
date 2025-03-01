@@ -38,3 +38,5 @@ Colores:
 | Reto 3      | 1.25     |
 | Despliegue      | 1.25       |
 
+Juan José Gómez Saavedra https://dsaw-2025-i.github.io/css-bonus-gomsago/
+
